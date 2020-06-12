@@ -34,3 +34,5 @@ Look fr emergency warning signs* for COVID-19, if someone is showing any of thes
 *This list is not all possible sympotons. Please call your medical provider for any other symptoms that are severe or concerning to you.
 
 Call 911 or call ahead to your local emergency facility: Notify the operator that you are seeking care for someone who may have COVID-19.
+
+* https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html - automatic [CDC] (How to protect yourself)
