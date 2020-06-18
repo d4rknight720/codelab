@@ -35,4 +35,13 @@ Look fr emergency warning signs* for COVID-19, if someone is showing any of thes
 
 Call 911 or call ahead to your local emergency facility: Notify the operator that you are seeking care for someone who may have COVID-19.
 
-* https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html - automatic [CDC] (How to protect yourself)
+* [How To Protect Yourself](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html)
+* [How to care for someone who is sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/care-for-someone.html)
+* [What to do if you are sick](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/steps-when-sick.html)
+ 
+ ## More Information
+
+ * [Odler adults](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/older-adults.html)
+ * [People at higher risk fir severe illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk-old.html)
+ * [Travelers](https://www.cdc.gov/coronavirus/2019-ncov/travelers/index.html)
+ * [Healthcare Professionals](https://www.cdc.gov/coronavirus/2019-ncov/hcp/index.html)
