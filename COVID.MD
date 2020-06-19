@@ -113,5 +113,29 @@ COVID-19 testing differs by location. If you have symptoms of COVID-19 and want 
 
 The U.S. Food and Drug Administration (FDA) has authorized two viral tests that let you collect either a [nasal swab](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-test-patient-home-sample-collection) or a [saliva sample](https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-first-diagnostic-test-using-home-collection-saliva) at home. However, you will still need to send your sample to a laboratory for analysis.
 
+## What to do after a viral test 
 
+To get your test result, please check with the group that performed your test, such as your healthcare provider or your health department. Check the CDC website to [locate your health department information](https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html). How long it will take to get your test results back depends on the test used.
+
+* **If you test positive for COVID-19**, know what protective steps to take [if you are sick or caring for someone](https://www.cdc.gov/coronavirus/2019-ncov/if-you-are-sick/index.html).
+
+* **If you test negative for COVID-19**, you probably were not infected at the time your sample was collected. However, that does not mean you will not get sick. It is possible that you were very early in your infection when your sample was collected and that you could test positive later. Or you could be exposed later and then develop illness. In other words, a negative test result does not mean you won’t get sick later. This means you could still spread the virus.
+
+### For healthcare professionals
+
+For information on evaluating and testing are, see [ recommendations for reporting, testing, and specimen collection](https://www.cdc.gov/coronavirus/2019-ncov/hcp/testing-overview.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fhcp%2Fclinical-criteria.html)
+
+## More Information
+
+* [HHS Community Based Viral Testing Sites for COVID-19external icon](https://www.hhs.gov/coronavirus/community-based-testing-sites/index.html)
+* [CDC: Frequently Asked Questions on Symptoms & Testing](https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Symptoms-&-Testing)
+* [U.S. Food and Drug Administration FAQs on Viral Testing for SARS-CoV-2](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/faqs-testing-sars-cov-2)
+
+# Test for Past infection
+
+Depending on when someone was infected and the timing of the test, the test may not find antibodies in someone with a current COVID-19 infection. Antibody tests should not be used to diagnose COVID-19. To see if you are currently infected, you need a viral test. Viral tests identify the virus in samples from your respiratory system, such as swabs from the inside of your nose.
+
+Antibody test are available through healthcare providers and laboratories
+
+If you test positive or negative for COVID-19 on a viral or an antibody test, you still should take preventive measures to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).
 
