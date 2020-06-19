@@ -139,3 +139,38 @@ Antibody test are available through healthcare providers and laboratories
 
 If you test positive or negative for COVID-19 on a viral or an antibody test, you still should take preventive measures to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).
 
+## How to get an antibody test 
+
+Check with your healthcare providers to see if they offer antibody tests,
+
+## How to get an antibody test
+
+### If you test positive 
+
+* A positive test result shows you have antibodies that likey resulted from an infection with SAR-CoV-2, or possible a related coronavirus
+* its unclear if those antibodies can provide protection (immunity) against getting infected again, This mean that we do not know at this time if antibodies make you immune to that virus
+* if you have no symptons, you likely do not have an active infection and no additional follow-up is needed.
+* if you have [symptons](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) and meet other [guidelines for testing](https://www.cdc.gov/coronavirus/2019-ncov/hcp/testing-overview.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fhcp%2Fclinical-criteria.html) you would need another type of test called nucleic acid test, or [viral test](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html). This tesr uses respiratory samples such as a swab from inside yorur nose to confirm COVID-19. An antibody test cannont tell if you are currently sick with COVID-19.
+* its possible you might test positive fir antiboides and you might have or have ever had symptons of COVID-19. This is known as having an asymptamatuc infection or an infection without symptons
+
+### If you test negative 
+
+* if you test negative for COVID-19 antibodies, you probably did not have a previous infection that has got better. However, you could have a current infecion. it's possible you could still get sick if you have been exposed to the virus recently, since antibodies dont show up for 1 to 3 weeks after infection. this means you could still spread the virus.
+* some people may even take longer to develop anibodies and some people may not develop antibodies
+* if you have [symptons](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) and meet other [guidelines for testing](https://www.cdc.gov/coronavirus/2019-ncov/hcp/testing-overview.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fhcp%2Fclinical-criteria.html) you would need another type of test called nucleic acid test, or [viral test](https://www.cdc.gov/coronavirus/2019-ncov/testing/diagnostic-testing.html). This tesr uses respiratory samples such as a swab from inside yorur nose to confirm COVID-19. An antibody test cannont tell if you are currently sick with COVID-19.
+
+### For healthcare professionals
+
+For information on evaluating and testing are, see [ recommendations for reporting, testing, and specimen collection](https://www.cdc.gov/coronavirus/2019-ncov/hcp/testing-overview.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fhcp%2Fclinical-criteria.html)
+
+## CDC's work in antibody testing
+
+CDC is evaluating commercial test
+
+CDC is evaluating the performence of commercially manufactured antibody test in collaboration with other goverment agencies, FDA has authorized emerygencybuse several antibody tests.
+
+### For more information
+
+* [FDA Emergency Use Authorizations for COVID-19](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/emergency-use-authorizations-medical-devices#covid19ivd)
+* [Insight into FDA’s Revised Policy on Antibody Tests: Prioritizing Access and Accuracy](https://www.fda.gov/news-events/fda-voices/insight-fdas-revised-policy-antibody-tests-prioritizing-access-and-accuracy)
+* [EUA Authorized Serology Test Performanceexternal icon](https://www.fda.gov/medical-devices/emergency-situations-medical-devices/eua-authorized-serology-test-performance)
