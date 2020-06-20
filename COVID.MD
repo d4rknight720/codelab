@@ -213,3 +213,21 @@ The best way to prevent illness is to avoid being exposed to this virus. You can
 
 Learn more about what you can do to [protect yourself and others](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html).
 
+## More information
+
+[ASL Video Series: How does COVID-19 Spread](https://www.youtube.com/watch?v=m4gborCUztk&list=PLvrp9iOILTQatwnqm61jqFrsfUB4RKh6J&index=7&t=0s)?
+
+# Protect yourself
+ 
+Older adults and people who have severe underlying medical conditions like heart or lung disease or diabetes seem to be at higher risk for developing serious complications from COVID-19 illness. More information on [Are you at higher risk for serious illness](https://www.cdc.gov/coronavirus/2019-ncov/need-extra-precautions/people-at-higher-risk.html).
+
+## Know how it spreads
+
+* There is currently no vaccine to prevent coronavirus disease 2019 (COVID-19).
+* There is currently no vaccine to prevent coronavirus disease 2019 (COVID-19).
+* The virus is thought to [spread mainly from person-to-person](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/how-covid-spreads.html).
+ * Between people who are in close contact with one another (within about 6 feet).
+ * Between people who are in close contact with one another (within about 6 feet).
+ * These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.
+ * Some recent studies have suggested that COVID-19 may be spread by people who are not showing symptoms.
+
