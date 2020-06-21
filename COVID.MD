@@ -231,3 +231,10 @@ Older adults and people who have severe underlying medical conditions like heart
  * These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs.
  * Some recent studies have suggested that COVID-19 may be spread by people who are not showing symptoms.
 
+## Everyone should
+
+### Wash your hands often
+
+* [Wash your hands](https://www.cdc.gov/handwashing/when-how-handwashing.html) often with soap and water for at least 20 seconds especially after you have been in a public place, or after blowing your nose, coughing, or sneezing.
+* If soap and water are not readily available, use a hand sanitizer that contains at least 60% alcohol. Cover all surfaces of your hands and rub them together until they feel dry.
+* Avoid touching your eyes, nose, and mouth with unwashed hands.
